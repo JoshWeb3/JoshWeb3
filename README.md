@@ -3,7 +3,7 @@
 👨🏻‍💻 About Me
 * 🔭   I’m currently honing my smart contract skills and my understanding of the EVM.
 * 🤔   Exploring Blockchain Technology and developing software solutions.
-* 🎓   Studying Information Technology at Montclair State
+* 🎓   Studying Information Technology at Montclair State.
 * 💼   Smart contract developer and front-end developer.
 * 🌱   Enthusiast in DeFi and tokenized real life assets.
 
