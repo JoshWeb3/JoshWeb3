@@ -8,7 +8,7 @@
 * 🌱   Enthusiast in DeFi and tokenized real life assets.
 
 🛠 Tech Stack
-* 💻   Solidity | Python | Bash | Java | C++ | C | Swift | 
+* 💻   Solidity | Python | Bash | Java | C++ | C | Swift 
 * 🌐   HTML | CSS | JavaScript | React.js | Next.js | Bootstrap | MaterialUI
 * 🛢    MySQL | GraphQL
 * 🔧   Visual Studio code | Hardhat | Git | Linux
