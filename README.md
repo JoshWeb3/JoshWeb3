@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! I'm Josh.👋
 
-<!--
-**JoshWeb3/JoshWeb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏻‍💻 About Me
+🔭   I’m currently honing my smart contract skills.
+🤔   Exploring Blockchain Technology and developing software solutions.
+🎓   Studying Information Technology at Montclair State
+💼   Smart contract developer and front-end developer.
+🌱   Enthusiast in DeFi and tokenized real life assets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+💻   Solidity | Python | Bash | Java | C++ | C | Swift | 
+🌐   HTML | CSS | JavaScript | React.js | Next.js | Bootstrap | MaterialUI
+🛢    MySQL | GraphQL
+🔧   Visual Studio code | Hardhat | Git | Linux
+🖥    Illustrator | Photoshop | Figma
