@@ -1,10 +1,9 @@
 ### Hi there! I'm Josh.👋
 
 👨🏻‍💻 About Me
-* 🔭   I’m currently honing my smart contract skills and my understanding of the EVM.
-* 🤔   Exploring Blockchain Technology and developing software solutions.
+* 🌲   Currently exploring the EVM dark forest.
 * 🎓   Studying Information Technology at Montclair State.
-* 💼   Smart contract developer and front-end developer.
+* 💼   Smart contract developer.
 * 🌱   Enthusiast in DeFi and tokenized real life assets.
 
 🛠 Tech Stack
